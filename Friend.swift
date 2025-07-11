@@ -6,6 +6,8 @@
 //
 
 import Foundation
+import SwiftData
+@Model
 
 class Friend { //Friend is our class
     //These two are our variables
